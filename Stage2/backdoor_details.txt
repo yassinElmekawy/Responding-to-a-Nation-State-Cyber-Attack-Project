@@ -1,0 +1,7 @@
+Username: darklord
+Most malicious Proccess: 947 root     /tmp/remotesec -k -l 56565
+Ip and port: 0.0.0.0:56565 (port: 56565 , ip: all interfaces)
+
+Justification:
+  the hacker entered the system using a brute force attack and logged in using ssh protocol, the attacker created its own user (named:"darklord") to easily reach
+  root privlages then the attacked installed his backdoor and his malicious code in the downloads folder and logged out
