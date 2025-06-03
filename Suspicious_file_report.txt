@@ -1,0 +1,6 @@
+file_name: SSH-One
+
+hardcoded_urls:{
+	http://darkl0rd.com:7758/SSH-T ,
+	http://darkl0rd.com:7758/SSH-One
+}
