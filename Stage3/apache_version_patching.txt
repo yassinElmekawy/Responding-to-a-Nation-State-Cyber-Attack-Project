@@ -1,0 +1,6 @@
+Server version: Apache/2.4.7 (Ubuntu)
+Server built:   Apr  3 2019 18:04:59
+
+Changes Made:
+  1. In a line from "ServerTokens OS" to "ServerTokens Prod"
+  2. In a line from "ServerSignature On" to "ServerSignature Off"
