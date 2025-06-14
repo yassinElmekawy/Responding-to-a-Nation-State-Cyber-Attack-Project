@@ -1,0 +1,10 @@
+Steps i've done:
+
+ - Users And Groups Created:
+    1.Created a new group: apache-group
+    2.Created a new user: apache-user (system account with no login)
+
+  -Modified Apache config:
+   1.Changed user and group in /etc/apache2/envvars (Debian/Ubuntu)
+
+  -Restarted Apache to apply changes.
